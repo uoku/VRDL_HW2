@@ -86,7 +86,6 @@ wheels/
 /wandb/
 .installed.cfg
 *.egg
-models/
 
 
 # PyInstaller
