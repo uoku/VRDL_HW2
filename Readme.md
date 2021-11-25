@@ -1,7 +1,9 @@
 
 # My VRDL HW2
 
-Use YOLOv5l6 pretrained model to do object detection
+Use YOLOv5m6 pretrained model to do object detection
+
+model from https://github.com/ultralytics/yolov5
 
 ## Requirements
 
